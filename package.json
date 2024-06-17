@@ -2,9 +2,9 @@
   "name": "redirect-joshthomasdev",
   "version": "0.0.0",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240117.0",
-    "typescript": "^5.3.3",
-    "wrangler": "^3.22.5"
+    "@cloudflare/workers-types": "^4.20240614.0",
+    "typescript": "^5.4.5",
+    "wrangler": "^3.60.3"
   },
   "private": true,
   "scripts": {
